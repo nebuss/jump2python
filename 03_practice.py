@@ -42,3 +42,4 @@ average = total / 10
 print(average)
 
 # 리스트 컴프리헨션
+
